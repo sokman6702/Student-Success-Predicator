@@ -1,0 +1,24 @@
+step 1 : Load and understand the data
+
+step 2: cleaning data using label-encoder (i am using label encoder )
+
+step 3: features scaling (standard scaler,min-max scaler)
+
+step 4: splitting the data into features and targets
+
+step 5: training the data 
+
+step 6 : making predicition on unseen data
+
+step 7 : check model performance
+
+step 8 : creating visualizations using matplotlib 
+
+step 9 : trying different evalute score to improve the model
+
+step 10 : documenting and cleaning the Code 
+
+
+goal : make a model that can predict if the student will pass/fail the exam based on study hours and other 
+data train by the model during the process 
+
